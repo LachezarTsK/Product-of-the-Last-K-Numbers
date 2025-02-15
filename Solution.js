@@ -1,5 +1,6 @@
 
 class ProductOfNumbers {
+    
     #INITIAL_PLACEHOLDER_FOR_MULTIPLICATION = 1;
     #prefixMultiplication = new Array();
 
