@@ -9,7 +9,7 @@ class ProductOfNumbers {
     }
 
     /** 
-     * @param {number} num
+     * @param {number} value
      * @return {void}
      */
     add(value) {
